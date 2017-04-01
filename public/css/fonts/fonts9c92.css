@@ -1,0 +1,75 @@
+
+@font-face {
+	font-family: 'sukhumvit-set_bold';
+	src:         url('sukhumvit-set_bold.eot');
+	src:         url('sukhumvit-set_bold.eot?#iefix') format('embedded-opentype'),
+				 url('sukhumvit-set_bold.html') format('woff2'),
+				 url('sukhumvit-set_bold.woff') format('woff'),
+				 url('sukhumvit-set_bold.html') format('truetype'),
+				 url('sukhumvit-set_bold.svg#aileron') format('svg');
+	font-weight: 800;
+	font-style:  normal;
+}
+
+@font-face {
+	font-family: 'sukhumvit-set_medium';
+	src:         url('sukhumvit-set_medium.eot');
+	src:         url('sukhumvit-set_medium.eot?#iefix') format('embedded-opentype'),
+				 url('sukhumvit-set_medium.html') format('woff2'),
+				 url('sukhumvit-set_medium.woff') format('woff'),
+				 url('sukhumvit-set_medium.html') format('truetype'),
+				 url('sukhumvit-set_medium.svg#aileron') format('svg');
+	font-weight: 800;
+	font-style:  normal;
+}
+
+@font-face {
+	font-family: 'sukhumvit-set_semibold';
+	src:         url('sukhumvit-set_semibold.eot');
+	src:         url('sukhumvit-set_semibold-webfont?#iefix') format('embedded-opentype'),
+				 url('ssukhumvit-set_semibold.html') format('woff2'),
+				 url('sukhumvit-set_semibold.woff') format('woff'),
+				 url('sukhumvit-set_semibold.html') format('truetype'),
+				 url('sukhumvit-set_semibold.svg#aileron') format('svg');
+	font-weight: 800;
+	font-style:  normal;
+}
+
+
+@font-face {
+	font-family: 'sukhumvit-set_text';
+		src:         url('sukhumvit-set_text.eot');
+src:         url('sukhumvit-set_text.eot?#iefix') format('embedded-opentype'),
+				 url('sukhumvit-set_text.html') format('woff2'),
+		url('sukhumvit-set_text.woff') format('woff'),
+				 url('sukhumvit-set_text.html') format('truetype'),
+				 url('sukhumvit-set_text.svg#aileron') format('svg');
+	font-weight: 800;
+	font-style:  normal;
+}
+
+@font-face {
+	font-family: 'sukhumvit-set_thin';
+		src:         url('sukhumvit-set_thin.eot');
+	src:         url('sukhumvit-set_thin.eot?#iefix') format('embedded-opentype'),
+				 url('sukhumvit-set_thin.html') format('woff2'),
+			 url('sukhumvit-set_thin.woff') format('woff'),
+				 url('sukhumvit-set_thin.html') format('truetype'),
+				 url('sukhumvit-set_thin.svg#aileron') format('svg');
+	font-weight: 800;
+	font-style:  normal;
+}
+
+
+@font-face {
+		font-family: 'sukhumvit-bold';
+src:         url('sukhumvit-set_bold.eot');
+	src:         url('sukhumvit-set_bold.eot?#iefix') format('embedded-opentype'),
+				 url('Aileron-Black-webfont.html') format('woff2'),
+			 url('sukhumvit-set_bold.woff') format('woff'),
+				 url('Aileron-Black-webfont-2.html') format('truetype'),
+				 url('Aileron-Black-webfont.svg#aileron') format('svg');
+	font-weight: 800;
+	font-style:  normal;
+}
+
